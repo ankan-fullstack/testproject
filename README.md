@@ -1,0 +1,2 @@
+# testproject
+Django test project
